@@ -4,7 +4,7 @@ A curated list of CLEAR Swift packages.
 
 ### Installation 
 
-Visit the latest collection [https://github.com/unrestrictedidentity/clear-packages-ios/blob/main/collection.json](here) and select **"Raw"** -- then copy the raw json file's URL from your web browser.
+Visit the latest collection [here](https://github.com/unrestrictedidentity/clear-packages-ios/blob/main/collection.json) and select **"Raw"** -- then copy the raw json file's URL from your web browser.
 
 On the command line, `cd` into your swift project's repository and run the following:
 
