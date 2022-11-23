@@ -2,11 +2,17 @@
 
 A curated list of CLEAR Swift packages. 
 
-`cd` into your swift project's repository and run the following:
+### Installation 
 
-```swift
-swift package-collection add https://raw.githubusercontent.com/unrestrictedidentity/clear-packages-ios/main/collection.json?token=GHSAT0AAAAAABYVXQBGU7RFQZ3WI6N2NKOKY36EG5Q --trust-unsigned
+Visit the latest collection [https://github.com/unrestrictedidentity/clear-packages-ios/blob/main/collection.json](here) and select **"Raw"** -- then copy the raw json file's URL from your web browser.
+
+On the command line, `cd` into your swift project's repository and run the following:
+
+```bash
+swift package-collection add <packages-url> --trust-unsigned
 ```
+
+Where `<packages-url>` is the URL you copied from the previous step.
 
 
 Learn more about Swift Package Collections:
