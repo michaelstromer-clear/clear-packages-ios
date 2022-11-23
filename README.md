@@ -24,7 +24,7 @@ Success!
 
 Open Xcode, and you will be able to access the new Swift Package Collection:
 
-[](./spm-collection.png)
+![](./spm-collection.png)
 
 Learn more about Swift Package Collections:
 - https://theswiftdev.com/how-to-create-a-swift-package-collection/
