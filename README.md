@@ -2,6 +2,10 @@
 
 A curated list of CLEAR Swift packages. 
 
+### Introduction
+
+Updating and tracking Swift Package versions across multiple repositories is quite cumbersome. With a Swift Package collection, we can keep track of internal packages updates within Xcode.
+
 ### Installation 
 
 Visit the latest collection [here](https://github.com/unrestrictedidentity/clear-packages-ios/blob/main/collection.json) and select **"Raw"** -- then copy the raw json file's URL from your web browser.
