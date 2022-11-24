@@ -8,7 +8,7 @@ Updating and tracking Swift Package versions across multiple repositories is qui
 
 ### Installation 
 
-Visit the latest collection [here](https://github.com/unrestrictedidentity/clear-packages-ios/blob/main/collection.json) and select **"Raw"** -- then copy the raw json file's URL from your web browser.
+Visit the latest collection [here](./collection.json) and select **"Raw"** -- then copy the raw json file's URL from your web browser.
 
 ![](raw-file.png)
 
